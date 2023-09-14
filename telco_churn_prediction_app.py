@@ -77,7 +77,7 @@ def main():
         )
         internet_service = st.selectbox(
             "Type of internet service plan (if applicable)",
-            ("DSL", "Cable", "Fiber optic", "None"),
+            ("DSL", "Cable", "Fiber optic", "Not Applicable"),
         )
 
         avg_monthly_long_distance_charges = st.number_input(
