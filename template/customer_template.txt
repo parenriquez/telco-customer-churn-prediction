@@ -1,0 +1,34 @@
+Follow the guidelines indicated for each category below to receive a correct prediction for the customer/s.
+Input the records according ONLY to the shown examples.
+
+1. Customer ID - text, ID number, eg. ABCDE-1234
+2. Gender - text, eg. Male, Female
+3. Age - number, eg. 21
+4. Married - text, eg. Yes, No
+5. Dependents - text, eg. Yes, No
+6. Number of Referrals number, eg. 0
+7. Tenure in Months - number, eg. 30
+8. Offer - text, eg. Yes, No
+9. Phone Service - text, eg. Yes, No
+10. Avg Monthly Long Distance Charges - number, eg. 30.50
+11. Multiple Lines - text, eg. Yes, No
+12. Internet Service - text, eg. Fiber Optic, DSL, Cable, Not Applicable
+13. Avg Monthly GB Download - number, eg. 60.50
+14. Online Security - text, eg. Yes, No
+15. Online Backup - text, eg. Yes, No
+16. Device Protection Plan - text, eg. Yes, No
+17. Premium Tech Support - text, eg. Yes, No
+18. Streaming TV - text, eg. Yes, No
+19. Streaming Movies - text, eg. Yes, No
+20. Streaming Music - text, eg. Yes, No
+21. Unlimited Data - text, eg. Yes, No
+22. Contract - text, eg. Month-to-Month, One year, Two year
+23. Paperless Billing - text, eg. Yes, No
+24. Payment Method - text, eg. Mailed Check, Bank Withdrawal, Credit Card
+25. Monthly Charge - number, eg. 20
+26. Total Charges - number, eg. 50
+27. Total Refunds - number, eg. 0
+28. Total Extra Data Charges - number, eg. 0
+29. Total Long Distance Charges - number, eg. 0
+30. Total Revenue - number, eg. 0
+31. Satisfaction Score - number, eg. 1,2,3,4,5 only
