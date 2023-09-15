@@ -21,7 +21,7 @@ def main():
     # Setting Application description
     st.markdown(
         """
-     :dart:  This Streamlit app is made to predict customer churn in a fictional telecommunication use case.
+    :dart:  This Streamlit app is made to predict customer churn in a fictional telecommunication use case.
     The application is functional for both online prediction and batch data prediction. \n
     """
     )
@@ -184,7 +184,7 @@ def main():
 
     else:
         st.subheader("Dataset upload")
-    
+
         with open(r"./template/customer_template.zip", "rb") as fp:
             btn = st.download_button(
                 label="Get template",
