@@ -29,7 +29,7 @@ def main():
     st.snow()
 
     # Setting Application sidebar default
-    image = Image.open("customer_loyalty.png")
+    image = Image.open("telco-customer-churn.jpg")
     add_selectbox = st.sidebar.selectbox(
         "How would you like to predict?", ("Online", "Batch")
     )
@@ -184,13 +184,14 @@ def main():
 
     else:
         st.subheader("Dataset upload")
-        template = pd.read_csv(r"./template/customer_template.csv")
-        get_template = st.download_button(
-            label="Get template",
-            file_name="customer_template.csv",
-            data=template.to_csv(index=None),
-            mime="text/csv",
-        )
+    
+        with open(r"./template/customer_template.zip", "rb") as fp:
+            btn = st.download_button(
+                label="Get template",
+                data=fp,
+                file_name="customer_template.zip",
+                mime="application/zip",
+            )
         uploaded_file = st.file_uploader(
             "Choose a file",
             help="Upload customer data. Save the file in csv format before uploading.",
