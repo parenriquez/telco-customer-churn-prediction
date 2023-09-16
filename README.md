@@ -58,11 +58,11 @@ The application can process a customer individually or by batch. When using Batc
 
 Here are some snapshots of the application:
 
-<img src="https://github.com/parenriquez/telco-customer-churn-prediction/assets/105270881/93d70741-faf9-430b-a469-82e7a069591a" width="400"/>
+<img src="https://github.com/parenriquez/telco-customer-churn-prediction/assets/105270881/93d70741-faf9-430b-a469-82e7a069591a" width="800"/>
 
-<img src="https://github.com/parenriquez/telco-customer-churn-prediction/assets/105270881/06560e1e-1082-4ef6-b937-96e6a7793b9b" width="400"/>
+<img src="https://github.com/parenriquez/telco-customer-churn-prediction/assets/105270881/daef4017-80c1-439b-8312-f868ea724bcc" width="800"/>
 
-<img src="https://github.com/parenriquez/telco-customer-churn-prediction/assets/105270881/9f07774a-eddc-4834-b53b-3e88130fcc14" width="400"/>
+<img src="https://github.com/parenriquez/telco-customer-churn-prediction/assets/105270881/9f07774a-eddc-4834-b53b-3e88130fcc14" width="800"/>
 
 Hope you will learn many things through this repository about Logistic Regression and Classification problems in general as much as I did. The resources which have been of great help in my learning and building this repository are linked in this README and you can just click them to explore on your own.
 
