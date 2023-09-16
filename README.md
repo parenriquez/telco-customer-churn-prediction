@@ -16,9 +16,9 @@ During churn prediction:
 
 It provides a clear picture on the state and quality of the business, shows customer satisfaction with their product or service, and allows for comparison with competitors to gauge customer turnover at the same timeframe.
 
-==================================================================================================================================================
+=====================================================================================================================================================
 
-In this repository, we will try to learn about Logistic Regression, using a dataset from the [Telco Customer Churn (11.1.3+)] (https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113) data module is in the *Base Samples* provided by IBM Cognos Analytics.
+In this repository, we will try to learn about Logistic Regression, using a dataset from the [Telco Customer Churn (11.1.3+)](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113) data module is in the *Base Samples* provided by IBM Cognos Analytics.
 
 It contains information about a fictional telco company that provided home phone and Internet services to 7043 customers in California in Q3.
 
