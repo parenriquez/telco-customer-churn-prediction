@@ -34,7 +34,9 @@ The tables were matched, cleaned, and combined into a singular dataset with 31 f
 
 The final dataset is imbalanced – 73% are not churning (0), while only 27% are (1). You can find the dataset [here](./dataset/telco_churn_raw.csv).
 
-We start by preparing and cleaning the data. Then we will also explore the topic of [**Multicollinearity**](https://towardsdatascience.com/statistics-in-python-collinearity-and-multicollinearity-4cc4dcd82b3f) among numerical variables. We will also try to select only those categorical variables with a considerable [**Mutual Information**](https://towardsdatascience.com/select-features-for-machine-learning-model-with-mutual-information-534fe387d5c8) score based on a chosen threshold of 0.001. 
+Go straight to the [notebook](./notebook/telco_project.ipynb) to begin our lesson.
+
+We begin by preparing and cleaning the data. Then we will also explore the topic of [**Multicollinearity**](https://towardsdatascience.com/statistics-in-python-collinearity-and-multicollinearity-4cc4dcd82b3f) among numerical variables. We will also try to select only those categorical variables with a considerable [**Mutual Information**](https://towardsdatascience.com/select-features-for-machine-learning-model-with-mutual-information-534fe387d5c8) score based on a chosen threshold of 0.001. 
 
 We will also explore Onehot Encoding of **Nominal Variables** using sklearn's [**DictVectorizer**](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.DictVectorizer.html).
 
